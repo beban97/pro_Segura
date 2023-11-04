@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.encabezado{
+    height: 200px;
+    background-color: darkgreen;
+}
+.titulo{
+    color: olive;
+
+}
+.parrafo{
+    font-size: 16px;
+    color: brown;
+    font-weight: 600px;
+}
+.boton{
+    height: 30px;
+    width: 120px;
+    background-color: coral;
+}
