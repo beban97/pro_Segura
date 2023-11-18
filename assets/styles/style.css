@@ -5,6 +5,7 @@ body{
 .encabezado{
     height: 200px;
     background-color: darkgreen;
+    margin: 5%;
 }
 .titulo{
     color: olive;
